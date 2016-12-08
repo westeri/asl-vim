@@ -8,7 +8,7 @@ Install
 -------
 
 Currently all you need to do is to copy the corresponding files from
-directories in this repository to your `~/.vim/' directory. For example
+directories in this repository to your `~/.vim/` directory. For example
 you copy `syntax/asl.vim` to `~/.vim/syntax/asl.vim` and so on.
 
 Usage
